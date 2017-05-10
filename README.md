@@ -8,7 +8,7 @@ WebName1   video_direct_url1
 WebName2   video_direct_url2
 ```
 #### 运行后台服务
-以启用后台服务的方式运行在Linux机子上：
+以启用后台服务的方式运行在`Linux`机子上：
 ````
 sh print_respCode.sh > log.txt &
 ````
