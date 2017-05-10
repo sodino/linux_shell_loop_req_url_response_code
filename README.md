@@ -1,0 +1,2 @@
+# linux_shell_loop_req_url_response_code
+LinuxShell脚本，用于每两分钟去请求指定的url，并打印出response code。用于验证防盗链的有效时间长度。
